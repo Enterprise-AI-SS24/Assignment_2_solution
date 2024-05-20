@@ -1,0 +1,2 @@
+zenml==0.57.0
+zenml[server]==0.57.0
